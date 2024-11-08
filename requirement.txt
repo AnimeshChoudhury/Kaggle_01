@@ -1,0 +1,12 @@
+Pillow
+numpy
+matplotlib
+torch
+torchvision
+scikit-learn
+transformers
+segment-geospatial 
+groundingdino-py
+leafmap
+localtileserver
+osgeo
